@@ -2,6 +2,8 @@
 
 `sca_prepand.php` implements support for coverage and parameter usage collection in PHP web-application.
 
+Tested on `PHP 8`.
+
 ## Usage
 
 ### XDebug config
