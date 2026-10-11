@@ -13,7 +13,7 @@ Currently PHP web applications are supported via:
 _NOTE:_ latest python should be used (python 3.12+)
 
 1. use `init.sh` to setup python venv
-2. prepare test stand with PHP web application integrated with SCA via [`php_sca`](./php_sca/README.md) implant
+2. prepare test stand with PHP web application integrated with SCA via [`php_implant`](./php_implant/README.md) implant
 
 ## [CODE OVERVIEW](./sca/README.md)
 
